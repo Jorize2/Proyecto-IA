@@ -18,19 +18,19 @@ Personalizable: Adaptable a diferentes idiomas y distribuciones de teclado
 ✔️¿Cómo pueden comenzar los usuarios?
 
 1. Instalar dependencias:
-Descarga los archivos del repositorio o duplicalos
+- Descarga los archivos del repositorio o duplicalos
 
 2. Ejecutar la aplicación:
-Descargar las librerías.
-Ejecutar el archivo main.py.
+- Descargar las librerías.
+- Ejecutar el archivo main.py.
 
 3. Usar gestos básicos:
-Mover el dedo índice para navegar.
-Hacer puño para borrar.
-Mantener gesto 👌 (OK) sobre sugerencias para seleccionar.
+- Mover el dedo índice para navegar.
+- Hacer puño para borrar.
+- Mantener gesto 👌 (OK) sobre sugerencias para seleccionar.
 
 ✔️Requisitos mínimos:
-Python 3.8.
-Cámara web estándar.
-Sistema operativo Windows/Linux/macOS.
-Visual Studio Code.
+- Python 3.8.
+- Cámara web estándar.
+- Sistema operativo Windows/Linux/macOS.
+- Visual Studio Code.
