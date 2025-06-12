@@ -2,18 +2,19 @@
 En este apartado se encuentra los documentos de los código del proyecto de Inteligencia artificial
 
 ✔️¿Qué hace el proyecto?
-Este proyecto implementa un teclado virtual controlado por gestos manuales que permite escribir sin contacto físico. Utiliza visión por computadora para detectar movimientos de dedos y un modelo de IA para sugerir palabras completas. Es ideal para:
+Este proyecto implementa un teclado virtual controlado por gestos manuales que permite escribir sin contacto físico. Utiliza visión por computadora para detectar movimientos de dedos y un modelo de IA para sugerir palabras completas.
+  Es ideal para:
 
 - Entornos donde no se puede tocar pantallas (quirófanos, pantallas públicas)
 - Personas con movilidad reducida
 - Sistemas de realidad aumentada/virtual
 
 ✔️¿Por qué el proyecto es útil?
-Beneficios clave: 
-Interacción sin contacto: Perfecto para situaciones higiénicas críticas  
-Sugerencias inteligentes: Ahorra tiempo al escribir con predicciones precisas  
-Hardware accesible: Funciona en computadoras básicas sin GPU  
-Personalizable: Adaptable a diferentes idiomas y distribuciones de teclado  
+- Beneficios clave: 
+- Interacción sin contacto: Perfecto para situaciones higiénicas críticas  
+- Sugerencias inteligentes: Ahorra tiempo al escribir con predicciones precisas  
+- Hardware accesible: Funciona en computadoras básicas sin GPU  
+- Personalizable: Adaptable a diferentes idiomas y distribuciones de teclado  
 
 ✔️¿Cómo pueden comenzar los usuarios?
 
