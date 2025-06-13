@@ -35,3 +35,5 @@ Este proyecto implementa un teclado virtual controlado por gestos manuales que p
 - Cámara web estándar.
 - Sistema operativo Windows/Linux/macOS.
 - Visual Studio Code.
+
+Si tienes alguna duda puedes comunicarte conmigo: zs22004534@estudiantes.uv.mx
